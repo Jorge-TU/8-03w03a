@@ -2,8 +2,8 @@ function saludo() {
     alert("JavaScript")
 }
 
-function iterador() {
-    for(i=0; i<5; i++){
+function iterador(length) {
+    for(i=0; i<length; i++){
         console.log("index: " + i)
     }
 }
