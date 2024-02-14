@@ -1,11 +1,18 @@
 h1{
+    color: black;
     background-color: azure;
 }
 
 p{
+    color: black;
     background-color: beige;
 }
 
 h2{
+    color: black;
     background-color: orange;
+}
+
+body{
+    background-color: antiquewhite;
 }
